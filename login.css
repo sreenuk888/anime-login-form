@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to bottom right,#BEEBF1,#F3ACCC);
+    overflow: hidden;
+    font-family: monospace;
+    height: 100vh;
+}
